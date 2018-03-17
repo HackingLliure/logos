@@ -1,0 +1,2 @@
+# Hacking Lliure logos
+Posem a la vostra disposició els logos de l'associació d'ús públic sota la llicència *[Creative Commons Attribution-ShareAlike 4.0 International](https://choosealicense.com/licenses/cc-by-sa-4.0/)*
